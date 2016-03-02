@@ -1,0 +1,8 @@
+{
+  "name": "makemehapi-solutions",
+  "version": "1.0.0",
+  "dependencies": {
+    "hapi": "^13.0.0",
+    "makemehapi": "^5.0.0"
+  }
+}
