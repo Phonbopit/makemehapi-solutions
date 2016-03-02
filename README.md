@@ -10,11 +10,6 @@ Try to refresh knowledge about hapijs by learned from [makemehapi](https://githu
 ```
 npm install
 
-npm start
+npm run makemehapi
 ```
 
-### Verify
-
-```
-npm run verify
-```
